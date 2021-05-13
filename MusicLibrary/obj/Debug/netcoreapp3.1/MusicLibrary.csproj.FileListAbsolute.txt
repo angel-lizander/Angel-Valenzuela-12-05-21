@@ -1,0 +1,238 @@
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.exe
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.deps.json
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.runtimeconfig.json
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.runtimeconfig.dev.json
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.pdb
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.Views.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.Views.pdb
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.csprojAssemblyReference.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.AssemblyInfoInputs.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.AssemblyInfo.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorAssemblyInfo.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorAssemblyInfo.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\staticwebassets\MusicLibrary.StaticWebAssets.Manifest.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\staticwebassets\MusicLibrary.StaticWebAssets.xml
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\scopedcss\bundle\MusicLibrary.styles.css
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.TagHelpers.input.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.TagHelpers.output.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorCoreGenerate.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorTargetAssemblyInfo.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorTargetAssemblyInfo.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.Views.pdb
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.pdb
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.genruntimeconfig.cache
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.csproj.CopyComplete
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Albums\Index.cshtml.g.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\CommentsModal.cshtml.g.cs
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.deps.json
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.runtimeconfig.json
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.runtimeconfig.dev.json
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.exe
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.dll
+C:\Users\alvalenzue\source\repos\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.pdb
+C:\Users\alvalenzue\source\repos\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.deps.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.runtimeconfig.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.runtimeconfig.dev.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.exe
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.exe
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.deps.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.runtimeconfig.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.runtimeconfig.dev.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.pdb
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.Views.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicLibrary.Views.pdb
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\bin\Debug\netcoreapp3.1\MusicService.pdb
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.csprojAssemblyReference.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.AssemblyInfoInputs.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.AssemblyInfo.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorAssemblyInfo.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorAssemblyInfo.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\staticwebassets\MusicLibrary.StaticWebAssets.Manifest.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\staticwebassets\MusicLibrary.StaticWebAssets.xml
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\scopedcss\bundle\MusicLibrary.styles.css
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.TagHelpers.input.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.TagHelpers.output.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorCoreGenerate.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Albums\Index.cshtml.g.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\CommentsModal.cshtml.g.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorTargetAssemblyInfo.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.RazorTargetAssemblyInfo.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.Views.pdb
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.csproj.CopyComplete
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.pdb
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicLibrary\obj\Debug\netcoreapp3.1\MusicLibrary.genruntimeconfig.cache

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MusicLibrary.ViewModels.AlbumsVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Albums</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    <a class="btn btn-success" style="color: white;" data-toggle="collapse" data-target="#collapse-@item.Id" onclick="GetPhotoAlbums(@item.Id)" role="button" aria-expanded="false" aria-controls="collapse-@item.Id">
+                        Ver álbum
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding:0px !important;">
+                    <div class="collapse" id="collapse-@item.Id"></div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@await Html.PartialAsync("~/Views/CommentsModal.cshtml");
+
+

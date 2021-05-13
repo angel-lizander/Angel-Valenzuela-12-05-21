@@ -1,0 +1,44 @@
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.csprojAssemblyReference.cache
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.AssemblyInfoInputs.cache
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.AssemblyInfo.cs
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.csproj.CoreCompileInputs.cache
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alvalenzue\source\repos\MusicService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alvalenzue\source\repos\MusicService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alvalenzue\source\repos\MusicService\bin\Debug\netcoreapp3.1\MusicService.exe
+C:\Users\alvalenzue\source\repos\MusicService\bin\Debug\netcoreapp3.1\MusicService.deps.json
+C:\Users\alvalenzue\source\repos\MusicService\bin\Debug\netcoreapp3.1\MusicService.runtimeconfig.json
+C:\Users\alvalenzue\source\repos\MusicService\bin\Debug\netcoreapp3.1\MusicService.runtimeconfig.dev.json
+C:\Users\alvalenzue\source\repos\MusicService\bin\Debug\netcoreapp3.1\MusicService.dll
+C:\Users\alvalenzue\source\repos\MusicService\bin\Debug\netcoreapp3.1\MusicService.pdb
+C:\Users\alvalenzue\source\repos\MusicService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\staticwebassets\MusicService.StaticWebAssets.Manifest.cache
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\staticwebassets\MusicService.StaticWebAssets.xml
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\scopedcss\bundle\MusicService.styles.css
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.RazorTargetAssemblyInfo.cache
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.csproj.CopyComplete
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.dll
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.pdb
+C:\Users\alvalenzue\source\repos\MusicService\obj\Debug\netcoreapp3.1\MusicService.genruntimeconfig.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\bin\Debug\netcoreapp3.1\MusicService.exe
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\bin\Debug\netcoreapp3.1\MusicService.deps.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\bin\Debug\netcoreapp3.1\MusicService.runtimeconfig.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\bin\Debug\netcoreapp3.1\MusicService.runtimeconfig.dev.json
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\bin\Debug\netcoreapp3.1\MusicService.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\bin\Debug\netcoreapp3.1\MusicService.pdb
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.csprojAssemblyReference.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.AssemblyInfoInputs.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.AssemblyInfo.cs
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.csproj.CoreCompileInputs.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\staticwebassets\MusicService.StaticWebAssets.Manifest.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\staticwebassets\MusicService.StaticWebAssets.xml
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\scopedcss\bundle\MusicService.styles.css
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.RazorTargetAssemblyInfo.cache
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.csproj.CopyComplete
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.dll
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.pdb
+C:\Users\Angel Lizander\Downloads\Proyecto\Proyecto\MusicService\obj\Debug\netcoreapp3.1\MusicService.genruntimeconfig.cache
